@@ -18,7 +18,7 @@ public class Ex05 {
 			int num = sc.nextInt();
 			total[i] = num;
 			
-			sum += total[i]; // 숫자를 더한값
+			sum += total[i]; // 숫자를 더한값 sum = sum+total[i]
 			}
 		
 		

@@ -10,7 +10,7 @@ public class Ex04 {
 		int count = 0;
 		
 		for(int i=0; i<data.length; i++) {
-			if(data[i]%3==0) {
+			if(data[i]%3==0) {  //3의배수 
 				
 				sum += data[i];
 				count++; //3의 배수 개수 카운트

@@ -30,7 +30,7 @@ public class Ex02 {
 		
 		// 반대방향으로 나오는 방법02
 		
-		for(i=num.length-1; i>=0; i--) {
+		for(i=num.length-1; i>-1; i--) { 
 			
 			System.out.println(num[i]);
 		}

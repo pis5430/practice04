@@ -3,13 +3,8 @@ package com.javaex.practice;
 public class Ex01 {
 
 	public static void main(String[] args) {
-		int[] intArray = new int[5];
+		int[] intArray = new int[] {1,10,50,60,55};
 		
-		intArray[0]=1;
-		intArray[1]=2;
-		intArray[2]=3;
-		intArray[3]=4;
-		intArray[4]=5;
 		
 		int result = 0;
 		
